@@ -1,5 +1,7 @@
 # Sort-Using-Hadoop-and-Spark
 
+This project was created as a part of coursework "Cloud Computing" at Illinois Institute of Technology at Chicago
+
 Compilation:
 
 javac -d hadoopsort HadoopSort.java
